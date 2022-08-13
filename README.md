@@ -1,13 +1,13 @@
 
-## React Password Generator
+# React Password Generator
 
 This app is build for creating random passwords for my personal use.
 
-# Demo
+## Demo
 
 https://sulemanbaloch2025.github.io/Password-Generator-App/
 
-# Technologies Used
+## Technologies Used
 
 CSS
 
@@ -15,7 +15,7 @@ Modules
 
 React.js
 
-# Features
+## Features
 
 User can decide the length of password
 
