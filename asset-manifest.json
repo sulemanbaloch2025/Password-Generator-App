@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Password-Generator-App/static/css/main.3e301ea0.chunk.css",
+    "main.js": "/Password-Generator-App/static/js/main.bbdcb3b4.chunk.js",
+    "main.js.map": "/Password-Generator-App/static/js/main.bbdcb3b4.chunk.js.map",
+    "runtime-main.js": "/Password-Generator-App/static/js/runtime-main.3d643240.js",
+    "runtime-main.js.map": "/Password-Generator-App/static/js/runtime-main.3d643240.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Password-Generator-App/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.c7dd0059.chunk.js": "/Password-Generator-App/static/js/2.c7dd0059.chunk.js",
+    "static/js/2.c7dd0059.chunk.js.map": "/Password-Generator-App/static/js/2.c7dd0059.chunk.js.map",
+    "static/js/3.84525939.chunk.js": "/Password-Generator-App/static/js/3.84525939.chunk.js",
+    "static/js/3.84525939.chunk.js.map": "/Password-Generator-App/static/js/3.84525939.chunk.js.map",
+    "index.html": "/Password-Generator-App/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Password-Generator-App/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.3e301ea0.chunk.css.map": "/Password-Generator-App/static/css/main.3e301ea0.chunk.css.map",
+    "static/js/2.c7dd0059.chunk.js.LICENSE.txt": "/Password-Generator-App/static/js/2.c7dd0059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d643240.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.c7dd0059.chunk.js",
+    "static/css/main.3e301ea0.chunk.css",
+    "static/js/main.bbdcb3b4.chunk.js"
+  ]
+}
